@@ -1,2 +1,2 @@
-# Regional-Major-Power-Outage-Classification-
-Final Project for DSC80
+# Regional Power Outage Classification 
+## DSC80 - FA25
