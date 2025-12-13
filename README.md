@@ -1,4 +1,8 @@
 # Regional Power Outage Classification 
+
+By: Nikitha Kerudi 
+
+
 ## Introduction
 
     
